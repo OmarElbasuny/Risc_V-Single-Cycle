@@ -1,6 +1,3 @@
-[submodule "Riscv/Cache_System"]
-	path = Riscv/Cache_System
-	url = https://github.com/OmarElbasuny/Cache-System.git
 [submodule "Cache_System"]
 	path = Cache_System
 	url = https://github.com/OmarElbasuny/Cache-System.git
